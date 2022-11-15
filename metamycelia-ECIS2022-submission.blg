@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: metamycelia-ECIS2022-submission.aux
+The style file: jmr.bst
+Database file #1: mybibfile.bib
+You've used 47 entries,
+            2923 wiz_defined-function locations,
+            896 strings with 13553 characters,
+and the built_in function-call counts, 254880 in all, are:
+= -- 42978
+> -- 2291
+< -- 0
++ -- 20549
+- -- 798
+* -- 22365
+:= -- 49164
+add.period$ -- 47
+call.type$ -- 47
+change.case$ -- 603
+chr.to.int$ -- 47
+cite$ -- 47
+duplicate$ -- 828
+empty$ -- 1582
+format.name$ -- 920
+if$ -- 46337
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 40
+newline$ -- 153
+num.names$ -- 410
+pop$ -- 325
+preamble$ -- 1
+purify$ -- 665
+quote$ -- 0
+skip$ -- 710
+stack$ -- 0
+substring$ -- 61467
+swap$ -- 227
+text.length$ -- 578
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 174
+warning$ -- 0
+while$ -- 904
+width$ -- 0
+write$ -- 618
