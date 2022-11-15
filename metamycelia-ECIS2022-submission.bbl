@@ -27,6 +27,11 @@ Angelov, Samuil, Paul Grefen \harvardand\ Danny Greefhorst  \harvardyearleft
   IEEE/IFIP Conference on Software Architecture \& European Conference on
   Software Architecture', pp.~141--150.
 
+\harvarditem{Ataei \harvardand\ Litchfield}{2022}{ataei2022state}
+Ataei, Pouya \harvardand\ Alan Litchfield  \harvardyearleft
+  2022\harvardyearright , `The state of big data reference architectures: a
+  systematic literature review', {\em IEEE Access} .
+
 \harvarditem{Avgeriou}{2003}{Avgeriou}
 Avgeriou, Paris  \harvardyearleft 2003\harvardyearright , `Describing,
   instantiating and evaluating a reference architecture: A case study', {\em
@@ -74,6 +79,10 @@ Cloutier, Robert, Gerrit Muller, Dinesh Verma, Roshanak Nilchiani, Eirik Hole
   \harvardand\ Mary Bone  \harvardyearleft 2010\harvardyearright , `The concept
   of reference architectures', {\em Systems Engineering} {\bf 13}(1),~14--27.
 
+\harvarditem{Dehghani}{2022}{dataMeshBook}
+Dehghani, Zhamak  \harvardyearleft 2022\harvardyearright , {\em Data Mesh:
+  Delivering Data-Driven Value at Scale}, O'Reilly Media.
+
 \harvarditem[Derras et~al.]{Derras, Deruelle, Douin, Levy, Losavio, Pollet
   \harvardand\ Reiner}{n.d.}{Derras}
 Derras, Mustapha, Laurent Deruelle, Jean-Michel Douin, Nicole Levy, Francisca
@@ -92,6 +101,11 @@ Eridaputra, Hanif, Bayu Hendradjaya \harvardand\ Wikan~Danar Sunindyo
   \harvardyearleft 2014\harvardyearright , Modeling the requirements for big
   data application using goal oriented approach, {\em in} `2014 international
   conference on data and software engineering (ICODSE)', pp.~1--6.
+
+\harvarditem{Evans \harvardand\ Evans}{2004}{evans2004domain}
+Evans, Eric \harvardand\ Eric~J Evans  \harvardyearleft 2004\harvardyearright ,
+  {\em Domain-driven design: tackling complexity in the heart of software},
+  Addison-Wesley Professional.
 
 \harvarditem{Galster \harvardand\ Avgeriou}{2011}{galster2011empirically}
 Galster, Matthias \harvardand\ Paris Avgeriou  \harvardyearleft
