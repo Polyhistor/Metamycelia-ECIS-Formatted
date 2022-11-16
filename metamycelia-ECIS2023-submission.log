@@ -1,14 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.11.16)  16 NOV 2022 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  16 NOV 2022 22:04
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**/home/pouya/Desktop/ECIS-Metamycelia/metamycelia-ECIS2023-submission.tex
-(/home/pouya/Desktop/ECIS-Metamycelia/metamycelia-ECIS2023-submission.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+**"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia - Copy/metamycelia-ECIS2023-submission.tex"
+("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia - Copy/metamycelia-ECIS2023-submission.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15> (D:\MikTex\tex/latex/base\article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+(D:\MikTex\tex/latex/base\size11.clo
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -22,19 +19,19 @@ File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+) (D:\MikTex\tex/latex/base\inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
-) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (D:\MikTex\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+ (D:\MikTex\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+\KV@toks@=\toks17
+) (D:\MikTex\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+ (D:\MikTex\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count175
 \Gm@cntv=\count176
@@ -47,21 +44,21 @@ Package: iftex 2019/11/07 v1.0c TeX engine tests
 \Gm@layoutheight=\dimen140
 \Gm@layouthoffset=\dimen141
 \Gm@layoutvoffset=\dimen142
-\Gm@dimlist=\toks17
-) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
-Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\Gm@dimlist=\toks18
+ (D:\MikTex\tex/latex/geometry\geometry.cfg)) (D:\MikTex\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (D:\MikTex\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box45
 \beforetitleunit=\skip49
 \aftertitleunit=\skip50
 \ttl@plus=\dimen143
 \ttl@minus=\dimen144
-\ttl@toksa=\toks18
+\ttl@toksa=\toks19
 \titlewidth=\dimen145
 \titlewidthlast=\dimen146
 \titlewidthfirst=\dimen147
-) (/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+) (D:\MikTex\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
 
@@ -72,7 +69,7 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (D:\MikTex\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@headwidth=\skip51
 \f@nch@O@elh=\skip52
@@ -83,21 +80,21 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@erf=\skip57
 \f@nch@O@olf=\skip58
 \f@nch@O@orf=\skip59
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (D:\MikTex\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip60
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(D:\MikTex\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (D:\MikTex\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
+\@emptytoks=\toks20
 \ex@=\dimen148
-)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (D:\MikTex\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen149
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (D:\MikTex\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count178
@@ -120,35 +117,35 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count185
 \dspbrk@lvl=\count186
-\tag@help=\toks20
+\tag@help=\toks21
 \row@=\count187
 \column@=\count188
 \maxfields@=\count189
-\andhelp@=\toks21
+\andhelp@=\toks22
 \eqnshift@=\dimen151
 \alignsep@=\dimen152
 \tagshift@=\dimen153
 \tagwidth@=\dimen154
 \totwidth@=\dimen155
 \lineht@=\dimen156
-\@envbody=\toks22
+\@envbody=\toks23
 \multlinegap=\skip61
 \multlinetaggap=\skip62
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (D:\MikTex\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (D:\MikTex\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+)) (D:\MikTex\tex/latex/algorithms\algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
- (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+ (D:\MikTex\tex/latex/base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@ALC@unique=\count190
@@ -157,26 +154,26 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \c@ALC@depth=\count193
 \ALC@tlm=\skip63
 \algorithmicindent=\skip64
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (D:\MikTex\tex/latex/graphics\graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+ (D:\MikTex\tex/latex/graphics\graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+ (D:\MikTex\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (D:\MikTex\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (D:\MikTex\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
-) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+) (D:\MikTex\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (D:\MikTex\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (D:\MikTex\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -189,35 +186,35 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+) (D:\MikTex\tex/latex/tools\array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen159
 \ar@mcellbox=\box48
 \extrarowheight=\dimen160
-\NC@list=\toks24
+\NC@list=\toks25
 \extratabsurround=\skip65
 \backup@length=\skip66
 \ar@cellbox=\box49
-) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (D:\MikTex\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count194
-) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+) (D:\MikTex\tex/latex/multirow\multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip67
 \multirow@cntb=\count195
 \multirow@dima=\skip68
 \bigstrutjot=\dimen161
-) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+) (D:\MikTex\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count196
-\float@exts=\toks25
+\float@exts=\toks26
 \float@box=\box50
-\@float@everytoks=\toks26
+\@float@everytoks=\toks27
 \@floatcapt=\box51
-) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2020/01/03 v3.4h Customizing captions (AR)
- (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+) (D:\MikTex\tex/latex/caption\caption.sty
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+ (D:\MikTex\tex/latex/caption\caption3.sty
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
 \captionmargin=\dimen162
 \captionmargin@=\dimen163
@@ -231,7 +228,7 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count197
 \c@continuedfloat=\count198
 Package caption Info: float package is loaded.
-) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+) (D:\MikTex\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip69
 \bibsep=\skip70
@@ -241,11 +238,11 @@ LaTeX Info: Redefining \cite on input line 694.
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is useless on input line 36.
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+(D:\MikTex\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count266
 \l__pdf_internal_box=\box52
-) (/home/pouya/Desktop/ECIS-Metamycelia/metamycelia-ECIS2023-submission.aux)
+) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia - Copy\metamycelia-ECIS2023-submission.aux")
 \openout1 = `metamycelia-ECIS2023-submission.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -263,7 +260,7 @@ LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 64.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (D:\MikTex\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -300,261 +297,77 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(D:\MikTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count267
 \scratchdimen=\dimen169
 \scratchbox=\box53
 \nofMPsegments=\count268
 \nofMParguments=\count269
-\everyMPshowfont=\toks27
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count270
 \MPscratchDim=\dimen170
 \MPnumerator=\count271
 \makeMPintoPDFobject=\count272
-\everyMPtoPDFconversion=\toks28
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\everyMPtoPDFconversion=\toks29
+) (D:\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
+)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (D:\MikTex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (D:\MikTex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 67.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
+(D:\MikTex\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) [1
 
-Package natbib Warning: Citation `DataBricksSurvey' on page 1 undefined on input line 85.
-
-
-Package natbib Warning: Citation `NewVantageSurvey' on page 1 undefined on input line 85.
-
-
-Package natbib Warning: Citation `GartnerSury' on page 1 undefined on input line 85.
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.59999pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2]
-
-Package natbib Warning: Citation `dataMeshBook' on page 3 undefined on input line 109.
-
-
-Package natbib Warning: Citation `evans2004domain' on page 3 undefined on input line 109.
-
-
-Package natbib Warning: Citation `ataei2022state' on page 3 undefined on input line 116.
-
-
-Package natbib Warning: Citation `Derras' on page 3 undefined on input line 116.
-
-
-Package natbib Warning: Citation `Cloutier' on page 3 undefined on input line 116.
-
-
-Package natbib Warning: Citation `Iso18384-1' on page 3 undefined on input line 119.
-
-
-Package natbib Warning: Citation `NASA' on page 3 undefined on input line 119.
-
-
-Package natbib Warning: Citation `Chang' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `quintero2019ibm' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `levin2013big' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `cackett2013information' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `SAPRA' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `ISO20547' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `kiran2015lambda' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `lin2017lambda' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `Maier' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `suthakar2017scalable' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `framework2015draft' on page 3 undefined on input line 123.
-
-
-Package natbib Warning: Citation `Klein' on page 3 undefined on input line 125.
-
-
-Package natbib Warning: Citation `weyrich2015reference' on page 3 undefined on input line 125.
-
-
-Package natbib Warning: Citation `maamouri2021phi' on page 3 undefined on input line 128.
-
-[3]
-
-Package natbib Warning: Citation `sommerville2011software' on page 4 undefined on input line 145.
-
-
-Package natbib Warning: Citation `laplante2017requirements' on page 4 undefined on input line 145.
-
-
-Package natbib Warning: Citation `ataei2022state' on page 4 undefined on input line 148.
-
-
-Package natbib Warning: Citation `Bahrami2015' on page 4 undefined on input line 150.
-
-
-Package natbib Warning: Citation `Chen2016a' on page 4 undefined on input line 150.
-
-
-Package natbib Warning: Citation `Chang' on page 4 undefined on input line 151.
-
-
-Package natbib Warning: Citation `volk2020identifying' on page 4 undefined on input line 151.
-
-
-Package natbib Warning: Citation `yu2019components' on page 4 undefined on input line 154.
-
-
-Package natbib Warning: Citation `eridaputra2014modeling' on page 4 undefined on input line 154.
-
-
-Package natbib Warning: Citation `al2016characteristics' on page 4 undefined on input line 154.
-
-
-Package natbib Warning: Citation `kassab2014state' on page 4 undefined on input line 158.
-
-
-Package natbib Warning: Citation `ISO29148' on page 4 undefined on input line 158.
-
-
-Package natbib Warning: Citation `laplante2017requirements' on page 4 undefined on input line 158.
-
-
-Package natbib Warning: Citation `abran2004software' on page 4 undefined on input line 158.
-
-
-Package natbib Warning: Citation `Cloutier' on page 4 undefined on input line 221.
-
-
-Package natbib Warning: Citation `bayer1999pulse' on page 4 undefined on input line 221.
-
-
-Package natbib Warning: Citation `stricker2010creating' on page 4 undefined on input line 221.
-
-
-Package natbib Warning: Citation `nakagawa2014consolidating' on page 4 undefined on input line 221.
-
-
-Package natbib Warning: Citation `wg2015iso' on page 4 undefined on input line 221.
-
-
-Package natbib Warning: Citation `Derras' on page 4 undefined on input line 221.
-
-
-Package natbib Warning: Citation `galster2011empirically' on page 4 undefined on input line 224.
-
-
-Package natbib Warning: Citation `Nakagawa' on page 4 undefined on input line 226.
-
-
-Package natbib Warning: Citation `KazmanATAM' on page 4 undefined on input line 227.
-
-[4]
-
-Package natbib Warning: Citation `angelov2009classification' on page 5 undefined on input line 231.
-
-[5]
-
-Package natbib Warning: Citation `galster2011empirically' on page 6 undefined on input line 237.
-
-
-Package natbib Warning: Citation `Cloutier' on page 6 undefined on input line 237.
-
-
-Package natbib Warning: Citation `galster2011empirically' on page 6 undefined on input line 241.
-
-
-Package natbib Warning: Citation `ISO42010' on page 6 undefined on input line 259.
-
-
-Package natbib Warning: Citation `galster2011empirically' on page 6 undefined on input line 262.
-
-
-Package natbib Warning: Citation `galster2011empirically' on page 6 undefined on input line 265.
-
-
-Package natbib Warning: Citation `Avgeriou' on page 6 undefined on input line 265.
-
-
-Package natbib Warning: Citation `angelov2008towards' on page 6 undefined on input line 267.
-
-[6]
-<media/Metamycelium.jpg, id=25, 1528.71124pt x 1257.69875pt>
+[2] [3] [4] [5] [6]
+<media/Metamycelium.jpg, id=24, 1528.71124pt x 1257.69875pt>
 File: media/Metamycelium.jpg Graphic file (type jpg)
 <use media/Metamycelium.jpg>
 Package pdftex.def Info: media/Metamycelium.jpg  used on input line 278.
 (pdftex.def)             Requested size: 455.24411pt x 374.52985pt.
+ [7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia - Copy/media/Metamycelium.jpg>] [8] [9] [10] [11] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia - Copy\metamycelia-ECIS2023-submission.bbl" [12]
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
+\OT1/ptm/b/n/10.95 URL: \OT1/ptm/m/it/10.95 https://www.oracle.com/technetwork/topics/entarch/articles/info-mgmt-big-data-ref-arch-
+ []
 
+[13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 290--293
+\OT1/ptm/b/n/10.95 URL: \OT1/ptm/m/it/10.95 https://blogs.gartner.com/andrew[]white/2019/01/03/our-top-data-and-analytics-predicts-for-
+ []
 
-Package natbib Warning: Citation `richardson2018microservices' on page 7 undefined on input line 283.
-
-[7 </home/pouya/Desktop/ECIS-Metamycelia/media/Metamycelium.jpg>] [8]
-
-Package natbib Warning: Citation `SoftwareArchitectureKazman' on page 9 undefined on input line 319.
-
-
-Package natbib Warning: Citation `wieringa2014design' on page 9 undefined on input line 319.
-
-
-Package natbib Warning: Citation `ISO25000' on page 9 undefined on input line 321.
-
-[9] [10] [11] (/home/pouya/Desktop/ECIS-Metamycelia/metamycelia-ECIS2023-submission.bbl)
-
-Package natbib Warning: There were undefined citations.
-
-[12] (/home/pouya/Desktop/ECIS-Metamycelia/metamycelia-ECIS2023-submission.aux) ) 
+) [15] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia - Copy\metamycelia-ECIS2023-submission.aux") ) 
 Here is how much of TeX's memory you used:
- 6000 strings out of 483107
- 83392 string characters out of 5964629
- 339443 words of memory out of 5000000
- 20937 multiletter control sequences out of 15000+600000
- 552013 words of font info for 66 fonts, out of 8000000 for 9000
- 59 hyphenation exceptions out of 8191
- 41i,17n,45p,1308b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/pouya/Desktop/ECIS-Metamycelia/metamycelia-ECIS2023-submission.pdf (12 pages, 511686 bytes).
+ 6194 strings out of 480795
+ 86469 string characters out of 2913777
+ 349643 words of memory out of 3000000
+ 22112 multiletter control sequences out of 15000+200000
+ 552013 words of font info for 66 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,17n,45p,1365b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/MikTex/fonts/enc/dvips/base/8r.enc}<D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia - Copy\metamycelia-ECIS2023-submission.pdf" (15 pages, 533880 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
