@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  16 NOV 2022 22:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2022.1.31)  17 NOV 2022 20:30
 entering extended mode
-**"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia - Copy/metamycelia-ECIS2023-submission.tex"
-("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia - Copy/metamycelia-ECIS2023-submission.tex"
+**"c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia/metamycelia-ECIS2023-submission.tex"
+("c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia/metamycelia-ECIS2023-submission.tex"
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-05-15> (D:\MikTex\tex/latex/base\article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -242,7 +242,7 @@ Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is usel
 File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count266
 \l__pdf_internal_box=\box52
-) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia - Copy\metamycelia-ECIS2023-submission.aux")
+) ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia\metamycelia-ECIS2023-submission.aux")
 \openout1 = `metamycelia-ECIS2023-submission.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -333,6 +333,10 @@ File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 ) [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (5.9102pt too wide) in paragraph at lines 101--102
+[]\OT1/ptm/m/n/10.95 are gen-er-ally built around a mono-lithic data ware-house, Extract-Transform-
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.59999pt.
@@ -345,7 +349,7 @@ File: media/Metamycelium.jpg Graphic file (type jpg)
 <use media/Metamycelium.jpg>
 Package pdftex.def Info: media/Metamycelium.jpg  used on input line 278.
 (pdftex.def)             Requested size: 455.24411pt x 374.52985pt.
- [7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia - Copy/media/Metamycelium.jpg>] [8] [9] [10] [11] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia - Copy\metamycelia-ECIS2023-submission.bbl" [12]
+ [7 <c:/Users/Admin/OneDrive - AUT University/PHD Journey/Papers/ECIS 2023 - Metamycelia/media/Metamycelium.jpg>] [8] [9] [10] [11] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia\metamycelia-ECIS2023-submission.bbl" [12]
 Underfull \hbox (badness 10000) in paragraph at lines 60--64
 \OT1/ptm/b/n/10.95 URL: \OT1/ptm/m/it/10.95 https://www.oracle.com/technetwork/topics/entarch/articles/info-mgmt-big-data-ref-arch-
  []
@@ -355,17 +359,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--293
 \OT1/ptm/b/n/10.95 URL: \OT1/ptm/m/it/10.95 https://blogs.gartner.com/andrew[]white/2019/01/03/our-top-data-and-analytics-predicts-for-
  []
 
-) [15] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia - Copy\metamycelia-ECIS2023-submission.aux") ) 
+) [15] ("c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia\metamycelia-ECIS2023-submission.aux") ) 
 Here is how much of TeX's memory you used:
  6194 strings out of 480795
- 86469 string characters out of 2913777
+ 86385 string characters out of 2913777
  349643 words of memory out of 3000000
  22112 multiletter control sequences out of 15000+200000
  552013 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,17n,45p,1365b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,17n,45p,1313b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/MikTex/fonts/enc/dvips/base/8r.enc}<D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTex/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmb8a.pfb><D:/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/MikTex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia - Copy\metamycelia-ECIS2023-submission.pdf" (15 pages, 533880 bytes).
+Output written on "c:/Users\Admin\OneDrive - AUT University\PHD Journey\Papers\ECIS 2023 - Metamycelia\metamycelia-ECIS2023-submission.pdf" (15 pages, 533956 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
